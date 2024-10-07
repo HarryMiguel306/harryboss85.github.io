@@ -37,13 +37,22 @@ The data (available under Kaggle) used in this lab is real data from a US insura
 
 The Boston Housing Dataset is a classic and widely-used resource in the field of machine learning and statistics that are used to predict average price of a house
 
-![Housing](https://github.com/HarryMiguel306/harryboss85.github.io/blob/main/dataset-cover%20(1).jpg)
+![Housing](téléchargement.jpg)
 
 - [Oxford Pets](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)
 
 Development of a classification model capable of recognizing and classifying images of different breeds of cats and dogs from the Oxford Pets dataset. [See Code here](https://colab.research.google.com/drive/1gkLR0y59QtVxLVzO8h0jSZVKQRqn2rbV?hl=fr#scrollTo=N7b727NEalyf)
 
 ![Pets](ox.jpg)
+
+### Certification 
+
+- Obtaining the TensorFlow Free Certificate TensorFlow Keras Bootcamp from OpenCV University
+- OpenClassroom certification about Data science
+
+### Activities and Engagement
+- #### SMART-B : member
+- #### Isheero : following
 
 
 
