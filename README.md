@@ -27,6 +27,12 @@ Another area of ​​expertise :
 
 ### Project
 AI Projects such as :
+- [Prepo-App](https://huggingface.co/spaces/Harryboss306/Prepo-app)
+
+Prepo-App is an image preprocessing application that I developed and deployed on Hugging Face. This tool simplifies image preprocessing tasks by leveraging a range of powerful dependencies such as **PIL**, **matplotlib**, **numpy**, **gradio**, and **OpenCV**. It allows users to easily upload images, apply various transformations (e.g., resizing, sobel, dilatation, erosion...), and visualize the results in real-time. Designed for developers and data scientists, Prepo-App enhances efficiency in preparing images for machine learning models or other applications.[Try it here](https://huggingface.co/spaces/Harryboss306/Prepo-app)
+
+![Prepo-app Image](Prepo.png)
+
 - [Health insurance](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 
 The data (available under Kaggle) used in this lab is real data from a US insurance company X and is useful for predicting health insurance premiums for a US citizen. [See code here](https://github.com/HarryMiguel306/harryboss85.github.io/blob/main/ProjetML.ipynb)
