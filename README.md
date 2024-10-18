@@ -27,6 +27,7 @@ Another area of ​​expertise :
 
 ### Project
 AI Projects such as :
+
 -[DermaScan](https://huggingface.co/spaces/Harryboss306/DermaScan)
 
 DermaScan is an application designed to facilitate the analysis of skin lesions using dermoscopic images. This project is currently in its MVP (Minimum Viable Product) phase and focuses on the detection and segmentation of skin anomalies from user-provided images. The goal is to offer a simple and fast solution to assist in the identification of skin diseases, while providing an intuitive and easy-to-use interface.[See MVP here](https://huggingface.co/spaces/Harryboss306/DermaScan)
