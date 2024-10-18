@@ -27,6 +27,12 @@ Another area of ​​expertise :
 
 ### Project
 AI Projects such as :
+-[DermaScan](https://huggingface.co/spaces/Harryboss306/DermaScan)
+
+DermaScan is an application designed to facilitate the analysis of skin lesions using dermoscopic images. This project is currently in its MVP (Minimum Viable Product) phase and focuses on the detection and segmentation of skin anomalies from user-provided images. The goal is to offer a simple and fast solution to assist in the identification of skin diseases, while providing an intuitive and easy-to-use interface.[See MVP here](https://huggingface.co/spaces/Harryboss306/DermaScan)
+
+![DermaScan](derm.png)
+
 - [Prepo-App](https://huggingface.co/spaces/Harryboss306/Prepo-app)
 
 Prepo-App is an image preprocessing application that I developed and deployed on Hugging Face. This tool simplifies image preprocessing tasks by leveraging a range of powerful dependencies such as **PIL**, **matplotlib**, **numpy**, **gradio**, and **OpenCV**. It allows users to easily upload images, apply various transformations (e.g., resizing, sobel, dilatation, erosion...), and visualize the results in real-time. Designed for developers and data scientists, Prepo-App enhances efficiency in preparing images for machine learning models or other applications.[Try it here](https://huggingface.co/spaces/Harryboss306/Prepo-app)
