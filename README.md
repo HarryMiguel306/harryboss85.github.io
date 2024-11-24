@@ -28,6 +28,13 @@ Another area of ​​expertise :
 ### Project
 AI Projects such as :
 
+
+-[Kmeans for Image Segmentation](https://huggingface.co/spaces/Harryboss306/Kmeans_segment)
+
+Development of an interactive application to segment grayscale images using the K-Means algorithm to allow to see in general the parts that have problems on the skin (an extension of the DermaScan application). The user can load an image and visualize the result in real time thanks to an intuitive interface created with Gradio. I remind you that the number of clusters is 2 and that a version to specify the number of clusters for any other project is coming soon.[See result here](https://huggingface.co/spaces/Harryboss306/Kmeans_segment)
+
+![Image](extension.png)
+
 -[DermaScan](https://huggingface.co/spaces/Harryboss306/DermaScan)
 
 DermaScan is an application designed to facilitate the analysis of skin lesions using dermoscopic images. This project is currently in its MVP (Minimum Viable Product) phase and focuses on the detection and segmentation of skin anomalies from user-provided images. The goal is to offer a simple and fast solution to assist in the identification of skin diseases, while providing an intuitive and easy-to-use interface.[See MVP here](https://huggingface.co/spaces/Harryboss306/DermaScan)
